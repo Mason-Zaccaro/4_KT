@@ -63,10 +63,9 @@ namespace New_library
         {
             try
             {
-                // Checked исключение (IOException)
                 using (FileStream fs = new FileStream("nonexistentfile.txt", FileMode.Open))
                 {
-                    // Этот код не будет выполнен, т.к файла нет
+                    
                 }
             }
             catch (IOException ex)
@@ -76,7 +75,6 @@ namespace New_library
 
             try
             {
-                // Unchecked исключение (NullReferenceException)
                 string nullString = null;
                 int length = nullString.Length;
             }
