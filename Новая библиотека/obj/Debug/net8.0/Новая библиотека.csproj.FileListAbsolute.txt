@@ -1,0 +1,11 @@
+C:\Users\zapev\source\repos\Основы С#\3 Курс\Новая библиотека\bin\Debug\net8.0\Новая библиотека.deps.json
+C:\Users\zapev\source\repos\Основы С#\3 Курс\Новая библиотека\bin\Debug\net8.0\Новая библиотека.dll
+C:\Users\zapev\source\repos\Основы С#\3 Курс\Новая библиотека\bin\Debug\net8.0\Новая библиотека.pdb
+C:\Users\zapev\source\repos\Основы С#\3 Курс\Новая библиотека\obj\Debug\net8.0\Новая библиотека.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zapev\source\repos\Основы С#\3 Курс\Новая библиотека\obj\Debug\net8.0\Новая библиотека.AssemblyInfoInputs.cache
+C:\Users\zapev\source\repos\Основы С#\3 Курс\Новая библиотека\obj\Debug\net8.0\Новая библиотека.AssemblyInfo.cs
+C:\Users\zapev\source\repos\Основы С#\3 Курс\Новая библиотека\obj\Debug\net8.0\Новая библиотека.csproj.CoreCompileInputs.cache
+C:\Users\zapev\source\repos\Основы С#\3 Курс\Новая библиотека\obj\Debug\net8.0\Новая библиотека.dll
+C:\Users\zapev\source\repos\Основы С#\3 Курс\Новая библиотека\obj\Debug\net8.0\refint\Новая библиотека.dll
+C:\Users\zapev\source\repos\Основы С#\3 Курс\Новая библиотека\obj\Debug\net8.0\Новая библиотека.pdb
+C:\Users\zapev\source\repos\Основы С#\3 Курс\Новая библиотека\obj\Debug\net8.0\ref\Новая библиотека.dll
