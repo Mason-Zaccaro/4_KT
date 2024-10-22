@@ -26,7 +26,7 @@ namespace ConsoleApp1
                 Console.WriteLine("Прочитано из файла: " + result);
 
                 Console.WriteLine("Демонстрация checked и unchecked исключений...");
-                FileManager.Demonstrate_Checked_Unchecked_Exceptions();
+                FileManager.Demonstrate_IOExceptions();
                 Console.WriteLine("Демонстрация завершена.");
             }
             catch (Exception ex)
