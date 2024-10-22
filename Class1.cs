@@ -20,7 +20,7 @@ namespace New_library
             }
             catch (IOException ex)
             {
-                Console.WriteLine("Ошибка ввода-вывода: " + ex.Message);
+                Console.WriteLine("Ошибка ввода/вывода: " + ex.Message);
                 throw;
             }
             finally
@@ -47,7 +47,7 @@ namespace New_library
             }
             catch (IOException ex)
             {
-                Console.WriteLine("Ошибка ввода-вывода: " + ex.Message);
+                Console.WriteLine("Ошибка ввода/вывода: " + ex.Message);
                 throw;
             }
             finally
