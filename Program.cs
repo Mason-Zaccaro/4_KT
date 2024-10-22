@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.IO.Pipes;
 using New_library;
 
 namespace ConsoleApp1
@@ -27,25 +26,15 @@ namespace ConsoleApp1
                 Console.WriteLine("Прочитано из файла: " + result);
 
                 Console.WriteLine("Демонстрация checked и unchecked исключений...");
-                FileManager.DemonstrateCheckedUncheckedExceptions();
+                FileManager.Demonstrate_Checked_Unchecked_Exceptions();
                 Console.WriteLine("Демонстрация завершена.");
             }
-            catch (FileNotFoundException ex)
-            {
-                Console.WriteLine("Файл не найден: " + ex.Message);
-            }
-
             catch (Exception ex)
             {
                 Console.WriteLine("Произошла ошибка: " + ex.Message);
             }
             finally
             {
-                FileStream fileStream = null;
-                if (fileStream != null)
-                {
-                    fileStream.Close();
-                }
                 Console.WriteLine("Нажмите любую клавишу для выхода...");
                 Console.ReadKey();
             }
